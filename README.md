@@ -1,2 +1,2 @@
  
-  *  No anonymous write access
+  *  Go common methods
