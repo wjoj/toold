@@ -1,2 +1,2 @@
  
-  *  Go common methods
+  *  Golang commonly used method of combing
