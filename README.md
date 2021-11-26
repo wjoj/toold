@@ -1,0 +1,2 @@
+ 
+  *  No anonymous write access
